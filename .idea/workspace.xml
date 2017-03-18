@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="792">
-                <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <first_editor relative-caret-position="379">
+                <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -246,15 +246,15 @@
       <workItem from="1489465791884" duration="24519000" />
       <workItem from="1489653464404" duration="16821000" />
       <workItem from="1489724227572" duration="14250000" />
-      <workItem from="1489805422483" duration="2764000" />
+      <workItem from="1489805422483" duration="2806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58354000" />
+    <option name="totallyTimeSpent" value="58396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-140" y="161" width="1932" height="1056" extended-state="1" />
+    <frame x="-140" y="161" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -712,8 +712,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="792">
-            <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <first_editor relative-caret-position="379">
+            <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
